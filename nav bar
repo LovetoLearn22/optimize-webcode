@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>nav-bar</title>
+</head>
+<body>
+<div class="container">
+  <div class="nav-scroller py-1 mb-4 border-bottom">
+    <nav class="nav d-flex justify-content-center flex-wrap">
+      <a class="p-2 text-body-emphasis" href="about_me.html">Highlights</a>
+      <a class="p-2 text-body-emphasis" href="Life_Page.html">Life</a>
+      <a class="p-2 text-body-emphasis" href="Experience_Page.html">Experience</a>
+      <a class="p-2 text-body-emphasis" href="Education.html">Education</a>
+      <a class="p-2 text-body-emphasis" href="Skills_Page.html">Skills</a>
+      <a class="p-2 text-body-emphasis" href="Interests.html">Interests</a>
+      <a class="p-2 text-body-emphasis" href="FOMDAK_Page.html">FOMDAK</a>
+      <a class="p-2 text-body-emphasis" href="VVV_Page.html">V.V.V. Hiking</a>
+      <a class="p-2 text-body-emphasis" href="NowNow_Page.html">NowNow</a>
+      <a class="p-2 text-body-emphasis" href="resume_page.html">Resume</a>
+    </nav>
+  </div>
+</div>
+
+</body>
+</html>
